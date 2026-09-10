@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/14d69a66-59bf-44d4-907d-e910274a3ed7" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cher-nobyl/cher-nobyl/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cher-nobyl/cher-nobyl/main/light.svg">
